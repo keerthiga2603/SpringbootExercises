@@ -1,0 +1,4 @@
+com\example\orderevent\OrderEventApplication.class
+com\example\orderevent\listener\OrderEventListener.class
+com\example\orderevent\controller\OrderController.class
+com\example\orderevent\event\OrderPlacedEvent.class
